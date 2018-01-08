@@ -1,7 +1,10 @@
 # **Stack-based Calculator**
-A **fully functional** calculator that solves infix mathematical expressions, tranforms it to postfix expressions and then calculates
+A **fully functional** calculator that solves ***infix*** mathematical expressions that are represented in a string, tranforms it to ***postfix*** expressions and then calculates
 its result using two stacks, one for operands and the other for the operations.<br/>
-#### Valid operations:
+
+<hr/>
+
+## Valid operations:
  - Basic operations like addition, subtraction, multiplication, and division.
  - Using parenthesis in expressions.
 ```
